@@ -1,0 +1,83 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.coursel-item{
+    padding: 20px 40px;
+}
+
+.banner-p{
+    text-align: justify;
+    padding-right: 25%;
+    font-weight: 400;
+    color: ;
+}
+
+.buy-now-button{
+    background-color:black ;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+/* Smartphone
+******************* */
+.card-body h5{
+    text-align: center;
+    font-weight: 700;
+}
+
+.card-body p{
+    color: #817878;
+    padding: 0 15px;
+    text-align: center;
+
+}
+.card-body h4{
+    margin-top: 20px;
+}
+
+
+
+/* Categories
+***********************/
+.cat{
+    margin-bottom:50px ;
+}
+.line{
+    width: 120px;
+    height: 7px;
+    background-color: #FF9C35;
+    border-radius: 20px;
+}
+
+
+h6{
+    text-align: center ;
+    padding:10px 50px ;
+}
+
+.cat-card{
+    /* width: 296px;
+    height: 316px; */
+    padding: 10% 10%;
+    
+}
+
+.cat-card img{
+    width: 100px;
+}
+
+.cat-right-side img {
+    width: 100%;
+}
+
+.card{
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px lightgray;
+    overflow: hidden;
+    padding: 20px;
+}
